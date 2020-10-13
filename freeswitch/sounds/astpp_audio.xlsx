@@ -1,5 +1,5 @@
 "File Name ";"Text in to File";
-;;
+
 "astcc-badphone.WAV";"That number is invallid.";
 "astpp-accountnum.WAV";"Please enter your card numbers followed by the pound sign.";
 "astpp-badaccount.WAV";"That card number is incorrect.";
